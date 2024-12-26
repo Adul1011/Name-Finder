@@ -1,4 +1,4 @@
-### Food Calories calculator APP
+### Name Finder APP
 from dotenv import load_dotenv
 
 load_dotenv() ## load all the environment variables
